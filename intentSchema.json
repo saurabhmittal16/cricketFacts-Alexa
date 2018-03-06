@@ -1,0 +1,30 @@
+{
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "TellFactIntent",
+          "samples": [
+            "Tell me a Cricket fact",
+            "Tell me an interesting fact about Cricket",
+            "Give me a Cricket fact",
+            "Give me a fact about Cricket",
+            "Cricket fact"
+          ],
+          "slots": []
+        }
+      ],
+      "invocationName": "cricket facts"
+    }
+  }
